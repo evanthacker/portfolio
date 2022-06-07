@@ -2,8 +2,16 @@ body {
   background-color: #f6fbf4;
 }
 hr {
-  border-color: #414793;
+  border-color: #66bfbf;
   border-style: dotted none none none;
   border-width: 7px;
   width: 5%;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+h3 {
+  color: #66bfbf;
 }
